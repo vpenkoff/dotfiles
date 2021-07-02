@@ -1,12 +1,11 @@
-# This is repo includes all the dotfiles that I use in my everyday life
+# This is repo includes all dotfiles that I use
 
-* vimrc
-* tmux.conf
 * gitconfig
+* tmux.conf
+* vimrc
 
-## To automagically fetch into the the right place on debian and debian-like systems execute:
+## To automagically get all configs and place them in your $HOME execute:
 `./boot.sh`
 
-
-This will install *vim*, *git*, *tmux*, *sudo* and *curl*. 
-It will also add your username to the sudoers. Log out and log in again.
+This will also install *vim*, *git*, *tmux*, *sudo* and *curl*.
+It will also add your username to the sudoers file.
