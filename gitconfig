@@ -1,0 +1,14 @@
+; GITCONFIG
+
+[user]
+  email = vpenkoff@gmail.com
+  name = Viktor Penkov
+[core]
+  editor = vim
+  filemode = false
+  hideDotFiles = false
+  pager = less
+[color]
+  ui = auto
+[diff]
+  tool = vimdiff
